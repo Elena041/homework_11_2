@@ -6,7 +6,7 @@
 ## Установка:
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/Elena041/homework_11_1
+git clone https://github.com/Elena041/homework_11_2
 ```
 
 В ветке feature/homework_11_1 ,в файле tests присутвуют предложные изменения по данному проекту
