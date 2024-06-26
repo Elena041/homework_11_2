@@ -29,3 +29,4 @@ pytest --cov
 ## Обновление
 1. Созданы генераторы в src/generators.py
 2. Созданы тесты к этому файлу (tests/test_generators.py)
+3. Создан декоратор @log в src/decorators.py и тест к нему(tests/test_decorators.py)
